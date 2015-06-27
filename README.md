@@ -1,6 +1,9 @@
 netsniff-ng
 ===========
 
+[![](https://badge.imagelayers.io/jumanjiman/netsniff-ng.svg)](https://imagelayers.io/?images=jumanjiman/netsniff-ng:latest 'View image size and layers')&nbsp;
+[![Circle CI](https://circleci.com/gh/jumanjihouse/docker-netsniff-ng.png?circle-token=0a4981e526ec3e7a4afa10ab2dddc25ca5a04038)](https://circleci.com/gh/jumanjihouse/docker-netsniff-ng/tree/master 'View CI builds')
+
 Project: [https://github.com/jumanjihouse/docker-netsniff-ng]
 (https://github.com/jumanjihouse/docker-netsniff-ng)
 
